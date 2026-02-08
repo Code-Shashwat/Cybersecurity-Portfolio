@@ -7,7 +7,7 @@ This document summarizes the concept and tools learned from Try Hack me Cyber Se
 
 ## Key Topic Covered 
 - Linux Fundamentals 
-- Windows Fundamental and Active Directoiry Basics
+- Windows Fundamental and Active Directory Basics
 - Networking Concepts and Networking Protocol
 - Cryptography Basics
 - Hashing Basics
