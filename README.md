@@ -96,6 +96,13 @@ This portfolio is actively updated as I continue learning and improving my cyber
 
 ---
 
+## License
+This repository is licensed under the MIT License.
+
+This repository is intended for learning and portfolio purposes.  
+Please do not directly reproduce content without appropriate attribution.
+
 ## 📫 Contact
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/shashwat-buradkar-3576591b2
 - Email: buradkarshashwat@gmail.com
+
