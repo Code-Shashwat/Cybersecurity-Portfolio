@@ -1,108 +1,150 @@
 # Cybersecurity Portfolio
 
-Hi! I’m **Shashwat Buradkar**, currently learning cybersecurity through structured hands-on labs, investigation simulations, tool practice, and small automation projects.
+Hi! I’m **Shashwat Buradkar** an infrastructure and endpoint management professional expanding my expertise across multiple cybersecurity domains through hands-on labs, practical exercises, investigation simulations, security tooling, and automation projects.
 
-This repository is my **learning portfolio**, where I document what I study and practice across:
+This repository documents my cybersecurity learning, practical exposure, and security workflows across areas including:
 
-- 🔵 Defensive Security (SOC / Incident Response fundamentals)
-- 🔴 Offensive Security (Red Team fundamentals — future)
-- ⚙️ Security Automation (Python / PowerShell)
+* 🔵 Defensive Security
+* 🔴 Offensive Security Fundamentals
+* ⚠️ Vulnerability Management
+* 🛡️ Compliance & Security Operations
+* ⚙️ Security Automation
 
----
-
-## 🎯 Learning Goals
-
-### Short-Term (0–2 months)
-- Understanding Fundamentals of cybersecurity
-  (SOC Analyst / Security Analyst / Junior Cybersecurity role)
-
-### Long-Term (6–12 months)
-- Build strong incident investigation and response skills  
-- Progress toward an Incident Responder / DFIR career path
-
-### Future Learning
-- Expand into offensive security fundamentals to strengthen overall security knowledge
+The objective of this portfolio is to build and document practical understanding of enterprise security operations, detection workflows, remediation processes, and overall security posture management.
 
 ---
 
-## 📂 Repository Structure
+# 🎯 Learning Focus
 
-### 🔵 Blue Team (Defensive Learning)
-This section contains my defensive security learning and practice:
+## Current Focus
 
-- **SOC Labs** (TryHackMe + LetsDefend summaries)
-- **Incident Reports** (investigation-style writeups)
-- **Detection Notes** (logs, network indicators, MITRE mapping)
-- **Incident Response** (checklists, templates, lifecycle notes)
+* Vulnerability management and remediation workflows
+* Security operations and incident investigation fundamentals
+* Detection, logging, and security monitoring concepts
+* Compliance and security posture management
+* Security automation using Python and PowerShell
+
+## Long-Term Focus
+
+* Expand expertise across offensive security, infrastructure security, incident response, and enterprise security operations
+* Develop deeper understanding of risk management, security architecture, and security governance
+* Continuously strengthen technical and strategic knowledge to support enterprise security posture
+
+---
+
+# 📂 Repository Structure
+
+## 🔵 Blue Team
+
+Defensive security learning, investigations, and operational security concepts.
+
+### Areas Covered
+
+* Vulnerability Management
+* Detection & Response
+* Threat Intelligence
+* Incident Reports
+* Compliance & GRC
 
 📁 Location: `Blue-Team/`
 
 ---
 
-### 🔴 Red Team (Offensive Learning — Future)
-This section will include my future learning and write-ups on:
+## 🔴 Offensive Security
 
-- Recon
-- Web Security
-- Exploitation basics
-- Privilege escalation
-- CTF-style writeups
+Foundational offensive security concepts and practical learning.
 
-📁 Location: `Red-Team/`
+### Areas Covered
 
----
+* Enumeration & Reconnaissance
+* Web Security
+* Exploitation Fundamentals
+* Privilege Escalation
+* Security Testing Concepts
 
-### 🛠️ Tools Notes
-Structured notes on tools I learn and use, such as:
-
-- Wireshark
-- Linux CLI
-- Windows utilities
-- Nmap (future)
-- Burp Suite (future)
-
-📁 Location: `Tools-Notes/`
+📁 Location: `Offensive-Security/`
 
 ---
 
-### ⚙️ Automation
-Small scripts built as learning projects to support security work:
+## 🛠️ Tools & Technical Notes
 
-- log parsing
-- IOC extraction
-- reputation checks
-- event log collection
+Structured notes and practical understanding of security and administrative tools.
+
+### Example Tools
+
+* Wireshark
+* Nmap
+* Burp Suite
+* Metasploit
+* CyberChef
+* Linux CLI
+* Windows Utilities
+* Qualys
+
+📁 Location: `Tools/`
+
+---
+
+## ⚙️ Automation
+
+Small automation projects and scripts related to operational security and administrative workflows.
+
+### Areas Covered
+
+* Log parsing
+* IOC extraction
+* Endpoint data collection
+* Event log handling
+* Security workflow automation
 
 📁 Location: `Automation/`
 
 ---
 
-### 📌 Resources
-A collection of references, links, and learning notes used throughout the journey.
+## 📜 Certifications
+
+Training programs, certifications, and completed learning paths related to cybersecurity and infrastructure security.
+
+📁 Location: `Certifications/`
+
+---
+
+## 📌 Resources
+
+References, documentation, learning notes, and useful security materials collected throughout the learning journey.
 
 📁 Location: `Resources/`
 
 ---
 
-## 🧪 Learning Platforms Used
-- TryHackMe
-- LetsDefend
-- Security blogs and documentation
+# 🧪 Learning Platforms & Resources
+
+* TryHackMe
+* LetsDefend
+* Qualys Training
+* Security blogs and technical documentation
+* Vendor documentation and research materials
 
 ---
 
-## 📈 Progress & Updates
-This portfolio is actively updated as I continue learning and improving my cybersecurity skills.
+# 📈 Portfolio Philosophy
+
+This repository is designed to document continuous learning, practical exposure, and understanding of cybersecurity workflows rather than only course completion.
+
+The focus is on developing practical knowledge across security operations, vulnerability management, remediation, compliance, and enterprise security concepts.
 
 ---
 
-## License
+# License
+
 This repository is licensed under the MIT License.
 
-This repository is intended for learning and portfolio purposes.  
+This repository is intended for learning and portfolio purposes.
 Please do not directly reproduce content without appropriate attribution.
 
-## 📫 Contact
-- LinkedIn: www.linkedin.com/in/shashwat-buradkar-3576591b2
-- Email: buradkarshashwat@gmail.com
+---
 
+# 📫 Contact
+
+* LinkedIn: www.linkedin.com/in/shashwat-buradkar-3576591b2
+* Email: buradkarshashwat@gmail.com
