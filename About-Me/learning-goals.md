@@ -1,14 +1,15 @@
 # Learning Goals
 
-## 🎯 Short-Term Goal
-- Become job-ready for an entry-level cybersecurity role
-  (SOC Analyst / Security Analyst / Security Engineer)
-- Build confidence in investigation workflow and documentation
-- Strengthen fundamentals in logs, phishing, malware alerts, and network basics
+## 🎯 Current Focus
+
+* Expand practical cybersecurity expertise across vulnerability management, security operations, compliance, and offensive security fundamentals
+* Strengthen understanding of enterprise security workflows including detection, remediation, hardening, and risk reduction
+* Improve hands-on investigation, documentation, and security analysis skills through practical exercises and lab environments
 
 ---
 
-## 🎯 Long-Term Goal (6–12 months)
-- Progress toward an Incident Response / DFIR role
-- Improve investigation depth, timeline building, and containment strategy
-- Build stronger understanding of attacker techniques and detection methods
+## 🎯 Long-Term Focus
+
+* Develop deeper expertise across multiple cybersecurity domains including incident response, offensive security, infrastructure security, and enterprise security operations
+* Build a strong understanding of security architecture, risk management, compliance, and security governance
+* Continuously enhance the ability to support and strengthen enterprise security posture through both technical and strategic security practices
