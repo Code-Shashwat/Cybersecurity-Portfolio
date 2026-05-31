@@ -1,88 +1,96 @@
-# Skills Summary (Career Transition to Cybersecurity)
+# Skills Summary
 
 ## 👋 Overview
-I am an experienced software professional transitioning into cybersecurity.  
-I bring strong experience in endpoint management, troubleshooting, automation, and security controls, and I am currently building hands-on defensive security and incident response skills.
+
+Experienced infrastructure and endpoint management professional with hands-on exposure to patch management, compliance operations, automation, and security-focused system administration.
+
+Currently expanding practical cybersecurity expertise across vulnerability management, security operations, defensive security, compliance, and offensive security fundamentals.
 
 ---
 
-## 💼 Current Professional Skills (My Strong Foundation)
+# 💼 Professional Experience & Core Skills
 
-### Endpoint Management & Operations
-- Enterprise endpoint management experience (Windows/Linux/Aix/Solaris environments)
-- Patch management and endpoint troubleshooting
-- System monitoring and health checks
-- Agent Deployment (Splunk/Quayls/Crowdsrike/EPM/Dynatrace/Tanium)
+## Endpoint Management & Infrastructure Operations
 
-### Automation & Scripting
-- Python automation for operational workflows
-- PowerShell scripting for Windows security configuration
+* Enterprise endpoint management across Windows, Linux, AIX, and Solaris environments
+* Patch management, endpoint troubleshooting, and operational support
+* System monitoring, health checks, and agent lifecycle management
+* Deployment and management of enterprise agents (Splunk, Qualys, CrowdStrike, Tanium, Dynatrace, EPM)
 
-### Security-Related Exposure (From My Current Work)
-- Endpoint protection and security controls (basic operational handling)
-- Understanding of system behavior, processes, and logs
-- Agent Deployment (Splunk/Qualys/Crowdsrike/EPM/Dynatrace/Tanium)
+## Automation & Scripting
 
-### ⚙️ Tools Used
-- BigFix (Patching and Compliance/ vulnerability remediation )
-- Python (Automations)
-- Linux CLI (To manage linux security configuration)
-- Powershell (To manage windows security configuration)
----
+* Python automation for operational and administrative workflows
+* PowerShell scripting for Windows administration and security configuration
+* Linux shell scripting and CLI-based system management
 
-## 🔵 Cybersecurity Skills (Currently Learning & Practicing)
+## Infrastructure Security Exposure
 
-### SOC Fundamentals (In Progress)
-- Alert triage workflow and investigation approach
-- Phishing investigation (headers, links, attachments, indicators)
-- Malware alert investigation basics
-- Brute-force login and suspicious authentication analysis
-- IOC extraction and basic threat intelligence checks
-
-### Logging & Investigation Basics (In Progress)
-- Windows Event Viewer fundamentals
-- Windows security logs (authentication, logon activity) — basic
-- Linux logs and authentication events — basic
-- Network fundamentals for investigations (DNS, HTTP, TLS basics)
-
-### Incident Response (In Progress)
-- Incident lifecycle understanding (NIST / SANS concepts)
-- Evidence collection mindset (logs, process data, indicators)
-- Timeline building for investigations
-- Containment and remediation recommendations (basic)
+* Endpoint hardening and security configuration management
+* Vulnerability remediation and compliance-focused operations
+* Understanding of system behavior, authentication workflows, and operational logs
+* Exposure to enterprise security tooling and operational security controls
 
 ---
 
-## ⚙️ Tools & Platforms
+# 🔵 Cybersecurity Knowledge & Hands-on Exposure
 
-### Platforms
-- TryHackMe (Blue Team learning paths)
-- LetsDefend (SOC simulation)
+## Vulnerability Management
 
-### Tools
-- Wireshark (basic traffic analysis)
-- Linux CLI
-- Windows utilities (Event Viewer, Resource Monitor, Registry basics)
-- Git + GitHub for documentation and portfolio building
+* Vulnerability assessment concepts and remediation workflows
+* Asset visibility and security posture management using Qualys
+* Understanding CVE, CVSS, patch prioritization, and remediation lifecycle
+* Exposure to compliance validation and policy auditing concepts
+* Understanding vulnerability scanning strategies and authenticated scanning concepts
+
+## Security Operations & Incident Analysis
+
+* Alert triage and investigation fundamentals
+* Phishing investigation techniques (headers, links, attachments, indicators)
+* Malware investigation basics and suspicious activity analysis
+* Authentication and brute-force activity analysis
+* IOC extraction and basic threat intelligence workflows
+
+## Logging & Detection Fundamentals
+
+* Windows Event Viewer and Windows authentication logs
+* Linux authentication and system logs
+* Basic network analysis concepts (DNS, HTTP, TLS)
+* Foundational understanding of incident investigation workflows
+
+## Offensive Security Fundamentals
+
+* Foundational understanding of reconnaissance and enumeration concepts
+* Exposure to web application security testing fundamentals
+* Basic understanding of exploitation methodologies and attack workflows
+* Hands-on exposure to offensive security tools in controlled lab environments
+* Understanding of privilege escalation concepts across Windows and Linux systems
 
 ---
 
-## 🔴 Planned Learning
+# ⚙️ Tools & Platforms
 
-### Incident Response / DFIR Growth
-- Deep investigation skills (timeline analysis, root cause)
-- Forensics fundamentals (host + network)
-- Advanced Windows event log analysis
-- Case-based reporting and documentation
+## Security Platforms
 
-### Offensive Security (Future)
-- Recon fundamentals
-- Web security basics
-- Pentesting methodology fundamentals
-- Privilege escalation fundamentals (Windows/Linux)
+* Qualys VMDR, CSAM, Policy Audit, CAR, PCI Compliance
+* TryHackMe
+* LetsDefend
+
+## Security & Administrative Tools
+
+* BigFix
+* Wireshark
+* Nmap
+* Burp Suite
+* Metasploit
+* Hydra
+* CyberChef
+* Git & GitHub
+* Linux CLI
+* PowerShell
+* Windows Administrative Utilities
 
 ---
 
-## 🎯 Career Goal
-- **Short-term:** Switch into a cybersecurity role (SOC / Security Analyst/Security Engineer)
-- **Long-term:** Grow into an Incident Response / DFIR role
+# 🎯 Long-Term Focus
+
+Continue expanding practical cybersecurity expertise across vulnerability management, security operations, offensive security, compliance, and infrastructure security to support and strengthen enterprise security posture.
